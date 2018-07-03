@@ -18,6 +18,7 @@ public class aco {
 	
 	
 	public static void main(String[] args) {
+    // test
 		double[] x_coord = new double[]{1150,630,40,750,750,1030,1650,1490,790,710,840,1170,
 				970,510,750,1280,230,460,1040,590,830,490,1840,1260,1280,
 				490,1460,1260,360};
