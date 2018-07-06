@@ -14,7 +14,11 @@ public class aco {
 	public static ArrayList <Integer>global_solution = new ArrayList<Integer>();
 	public static double global_best_cost =  999999999; 
 	public static ArrayList <Integer>iteration_best_solution = new ArrayList<Integer>();
+
+	public static double xxxxxxxxxiteration_best_cost = 999999999;
+
 	public static double uuuuuuuuuuuuuuuuuuuiteration_best_cost = 999999999;
+
 	
 	
 	public static void main(String[] args) {
